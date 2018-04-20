@@ -59,6 +59,6 @@ unsigned int _tmp_rnd_len = 32;
 {% endhighlight %}
 
 The result is presented whit two values ``char`` array which is our binary file 
-and ``integer`` length of this array. 
+and ``int`` length of this array. 
 
 It's very simple way to get the right result and can save a lot of time.
