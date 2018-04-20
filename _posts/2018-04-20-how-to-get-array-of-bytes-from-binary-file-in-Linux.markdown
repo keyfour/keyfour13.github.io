@@ -2,7 +2,6 @@
 layout: post
 title: "How To Get Array of Bytes From Binary File in Linux"
 date:   2018-04-20 07:39:48 +0300
-image: {{ site.url }}/assets/thing_arent_always_0_and_f.png
 categories: softwareengineering
 ---
 
