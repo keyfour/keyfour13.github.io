@@ -58,7 +58,9 @@ unsigned char _tmp_rnd[] = {
 unsigned int _tmp_rnd_len = 32;
 {% endhighlight %}
 
-The result is presented whit two values ``char`` array which is our binary file 
-and ``int`` length of this array. 
+The result is presented whit two values ``unsigned char`` array which is our binary file 
+and ``unsigned int`` length of this array. They are named as file path that we use on
+previous step with some substitutions because of constraints of ``C`` language variables
+naming.
 
 It's very simple way to get the right result and can save a lot of time.
